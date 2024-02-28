@@ -14,10 +14,12 @@ const Home: NextPage = () => {
     { assetName: "", fingerPrint: "", policyId: "", quantity: "", unit: "" },
   ]);
 
+  // This should be stored in an environment variable, but in the context of an experiment, I show it here //
   const token1 = "platinumRelic";
   const token2 = "goldRelic";
   const token3 = "silverRelic";
   const policyID = "e0deef4b2d60183ffc44ed4487bda40d2e55862ac46f1811c861d09d";
+  // ----------------------------------------------------------------------------------------------------- //
 
   useEffect(() => {
     async function searchAssets() {
