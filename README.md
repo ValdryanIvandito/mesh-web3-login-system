@@ -1,4 +1,4 @@
-# Get Wallet Details Using All Mesh Wallet Hooks
+# Web3 Login System Using NFT
 
 The purpose of this simple application is to show one of the advantages of web3 regarding ownership data in the form of credentials, users can log in and enter a web page using a crypto asset or NFT.
 
