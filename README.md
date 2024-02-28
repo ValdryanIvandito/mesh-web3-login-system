@@ -15,7 +15,7 @@ To see how it works, let's look at the recorded video where I shared and demonst
 ### Clone The Repository
 
 ```bash
-git clone
+git clone https://github.com/ValdryanIvandito/mesh-web3-login-system.git
 ```
 
 ### Go to the Directory
